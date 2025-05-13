@@ -1,7 +1,7 @@
 ## Hello, I'm Baktiyar.
 
 ### 🧑🏻‍💻 About Me :
-- VueJS developer.
+- Frontend developer.
 - Work experience 4 year
 - Ready to apply my skills in programming, as well as websites and mobile development.
 - In programming, I like logic, constant development and the opportunity to work on projects in different areas.
